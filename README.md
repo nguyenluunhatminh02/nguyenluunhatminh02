@@ -26,8 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/nguyenluunhatminh02/nguyenluunhatminh02/output/snake.svg" alt="Snake animation" />
-
-###
